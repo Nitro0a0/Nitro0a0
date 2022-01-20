@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/">
+  <a href="https://github.com/alancatgamer">
     <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/alancatgamer?color=181818&labelColor=FF8C00&style=for-the-badge&logo=github&label=Follow%20me"/></a>
 </p>
 
