@@ -14,9 +14,9 @@
 
 > Привет, Я Alan Cat Gamer программирую (любитель). Умею писать код на Node.JS, Python и немного C#.
 
-[![Profile Github Stats](https://github-readme-stats.vercel.app/api?username=AlanCatGamer&show_icons=true&title_color=FF8C00&icon_color=FF8C00&text_color=fff&bg_color=181818](https://github.com/alancatgamer)
+[![Profile Github Stats](https://github-readme-stats.vercel.app/api?username=AlanCatGamer&show_icons=true&title_color=FF8C00&icon_color=FF8C00&text_color=fff&bg_color=181818)](https://github.com/alancatgamer)
 
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=alancatgamer&langs_count=8&layout=compact&title_color=FF8C00&text_color=fff&bg_color=181818](https://github.com/alancatgamer)
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=alancatgamer&langs_count=8&layout=compact&title_color=FF8C00&text_color=fff&bg_color=181818)](https://github.com/alancatgamer)
 
 <details>
 <summary>🛠 Мои проекты</summary>
