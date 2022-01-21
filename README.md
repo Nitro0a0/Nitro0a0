@@ -33,6 +33,5 @@ Discord: Alan Cat Gamer#6038<br>
 Instagram: https://www.instagram.com/alancatgamer/
   </p>
 
-- [Cord](https://alancatgamer.github.io/cord/) Дискорд бот написан на Node.JS
-</p>
+
 </details>
