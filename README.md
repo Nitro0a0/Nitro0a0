@@ -26,7 +26,7 @@
 </p>
 </details> 
 <details>
-<summary📨 Мои соц. cети</summary>
+<summary>📨 Мои соц. cети</summary>
   <p>
    - [YouTube](https://www.youtube.com/channel/UCmp0TexORpzvnG75M2oEO0g)
    - Discord: Alan Cat Gamer#6038
