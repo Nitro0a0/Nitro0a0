@@ -24,8 +24,9 @@
 
 - [Cord](https://alancatgamer.github.io/cord/) Дискорд бот написан на Node.JS
 </p>
-  
-  <summary📨 Мои соц. cети</summary>
+</details> 
+<details>
+<summary📨 Мои соц. cети</summary>
   <p>
    - [YouTube](https://www.youtube.com/channel/UCmp0TexORpzvnG75M2oEO0g)
    - Discord: Alan Cat Gamer#6038
