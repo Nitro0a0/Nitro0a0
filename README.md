@@ -4,12 +4,12 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Alan+Cat+Gamer&center=true&width=200&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Nitro_&center=true&width=200&height=30">
 </p>
 
 <p align="center">
   <a href="https://github.com/alancatgamer">
-    <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/alancatgamer?color=181818&labelColor=FF8C00&style=for-the-badge&logo=github&label=Follow%20me"/></a>
+    <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/Nitro0a0?color=181818&labelColor=FF8C00&style=for-the-badge&logo=github&label=Follow%20me"/></a>
 </p>
 
 > Привет, Я Alan Cat Gamer программирую (любитель). Умею писать код на Node.JS, Python и немного C#.
@@ -29,7 +29,7 @@
 <summary>📨 Мои соц. cети</summary>
   <p>
 YouTube: https://www.youtube.com/channel/UCmp0TexORpzvnG75M2oEO0g<br>
-Discord: Alan Cat Gamer#6038<br>
+Discord: Nitro_#6038<br>
 Instagram: https://www.instagram.com/alancatgamer/
   </p>
 
