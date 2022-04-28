@@ -30,7 +30,7 @@
   <p>
 YouTube: https://www.youtube.com/channel/UCmp0TexORpzvnG75M2oEO0g<br>
 Discord: Nitro_#6038<br>
-Instagram: https://www.instagram.com/alancatgamer/
+Instagram: https://www.instagram.com/nitro0a0/
   </p>
 
 
