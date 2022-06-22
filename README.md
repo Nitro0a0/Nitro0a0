@@ -1,7 +1,3 @@
-<h2 align="center">
-  Привет!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Nitro_&center=true&width=200&height=30">
