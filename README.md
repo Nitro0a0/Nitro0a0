@@ -14,19 +14,12 @@
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=Nitro0a0&langs_count=8&layout=compact&title_color=FF8C00&text_color=fff&bg_color=181818)](https://github.com/alancatgamer)
 
-<details>
-<summary>🛠 Мои проекты</summary>
-<p>
 
-- [Cord](https://Nitro0a0.github.io/cord/) Дискорд бот написан на Node.JS
-</p>
-</details> 
-<details>
-<summary>📨 Мои соц. cети</summary>
+<details>Discord</summary>
   <p>
-YouTube: https://www.youtube.com/channel/UCmp0TexORpzvnG75M2oEO0g<br>
-Discord: Nitro_#6038<br>
-Instagram: https://www.instagram.com/nitro0a0/
+
+Nitro_#6038<br>
+
   </p>
 
 
