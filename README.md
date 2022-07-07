@@ -15,10 +15,10 @@
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=Nitro0a0&langs_count=8&layout=compact&title_color=FF8C00&text_color=fff&bg_color=181818)](https://github.com/alancatgamer)
 
 
-<details>Discord</summary>
+<details></summary>
   <p>
 
-Nitro_#6038<br>
+Discord: Nitro_#6038<br>
 
   </p>
 
